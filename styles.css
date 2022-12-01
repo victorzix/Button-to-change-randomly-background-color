@@ -1,0 +1,15 @@
+body
+{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f1f1f1;
+}
+
+#button
+{
+    width: 20em;
+    height: 20em;
+}
