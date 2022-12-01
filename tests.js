@@ -15,5 +15,5 @@ function changecolor() {
     var bcolor = Math.round(Math.random() * 10);
 
     const body = document.body;
-    bodygi.style.backgroundColor = `#${rcolor}${gcolor}${bcolor}`;
+    body.style.backgroundColor = `#${rcolor}${gcolor}${bcolor}`;
 }
